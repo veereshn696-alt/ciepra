@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv)!=5 :
+if len(sys.argv)!=4 :
   exit(1)
 script_name=sys.argv[0]
 sub1=sys.argv[1]
